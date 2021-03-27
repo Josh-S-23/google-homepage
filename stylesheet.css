@@ -1,0 +1,28 @@
+.googleLogo {
+
+    text-align: center;
+    padding-top:  228px;
+}
+
+.searchBar {
+
+    text-align: center;
+    padding-top: 25px;  
+}
+
+li {
+
+    display: inline;
+    padding: 8px;
+    font-size: 13.5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+      text-decoration: none;
+  }
