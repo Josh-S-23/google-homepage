@@ -1,13 +1,14 @@
 .googleLogo {
 
     text-align: center;
-    padding-top:  228px;
+    padding-top:  167px;
 }
 
 .searchBar {
 
     text-align: center;
-    padding-top: 25px;  
+    padding-top: 25px;
+    padding-bottom: 25px;  
 }
 
 li {
@@ -17,12 +18,56 @@ li {
     font-size: 13.5px;
 }
 
+.signIn {
+    background-color: #4285F4;
+    border: none;
+    color:white;
+    padding: 8px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 14px;
+    cursor: pointer;
+    justify-content: center;
+    border-radius: 4px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    padding-top: 9px;
+    padding-left: 11px;
   }
 
   a {
       text-decoration: none;
+  }
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-item {
+    margin-left: 10px;
+  }
+
+  .button {
+    background-color: #F5F5F5;
+    border: none;
+    color: black;
+    padding: 8px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 14px;
+    cursor: pointer;
+    justify-content: center;
+  }
+
+  p {
+      text-align: center;
+      font-size: 12px;
+      padding-top: 20px;
   }
